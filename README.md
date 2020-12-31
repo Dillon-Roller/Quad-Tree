@@ -22,3 +22,7 @@ Show white lines: Spacebar
 Increase range (compress): '+' key
 
 Decrease range (decompress): '-' key
+
+## Preview
+
+![preview](https://github.com/Dillon-Roller/Quad-Tree/blob/main/example.png)
