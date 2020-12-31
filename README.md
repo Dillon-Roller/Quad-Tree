@@ -3,7 +3,7 @@ Ensure you have the OpenGL Glut library installed. This is needed to render the 
 sudo apt-get install freeglut3-dev
 ```
 ## Build
-To build and compile all source files, do `make`. 
+To build and compile all source files, do `make`. You can remove all object files using `make clean`
 ## Run 
 Build outputs an executable called `quadtree`. You can run this like `./quadtree [image]` from within the directory.
 ## Program
